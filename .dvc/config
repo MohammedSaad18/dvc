@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://data
+    endpointurl = http://52.23.207.73:9000
